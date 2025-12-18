@@ -10,4 +10,6 @@ This series of documents aims to give you some ideas of the mathematical tools i
   9. The complex plane
   10. More about vector functions (II)
   11. The nabla operator and Maxwell's Equations
+
+      
 You are encouraged to find exercises to apply these skills in your M2 textbook, or to reformluate the equations in your physics textbooks with the language of calculus.
