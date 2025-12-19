@@ -1,3 +1,4 @@
+(P.S. I know no one would care enough to do so but I'll still put it here: please ask for permission if you want to share the documents)
 This series of documents aims to give you some ideas of the mathematical tools in DSE M2, advanced physics and more. The contents of current and future documents are listed below:
   1. Vector arithmetic and manipulation
   2. Differentiation
